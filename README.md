@@ -10,7 +10,7 @@
 
 *Calculator*
 
-- [Task 2]
+- [Task 2](https://github.com/preritasaini1/CODSOFT-PYTHON/blob/main/calculator.py)
 
 *Rock-Paper-Scissor Game*
 
